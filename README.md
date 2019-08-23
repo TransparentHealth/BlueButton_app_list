@@ -3,7 +3,7 @@ Purpose: JSON schema and api specification to publish a list of approved blue bu
 
 ## API Endpoint
 
-https://domain.tld/.well-known/applications
+https://domain.tld/.well-known/published-applications
 
 ## Access
 
@@ -73,4 +73,16 @@ Within the Results list the following elements are included:
 }
 ```
 
+# Road Map
+
+We are currently working on Version 1.0
+
+## 1.0 
+Initial Release
+
+## 2.0 
+
+- Express results using FHIR R4 Endpoint Resource. 
+- Express Publisher using HL7 FHIR US Core Organization Profile. 
+- Create FHIR Implementation Guide.
 
