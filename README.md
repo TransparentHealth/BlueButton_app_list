@@ -57,7 +57,7 @@ Within the Results list the following elements are included:
       "logo_allowed_use": ["Data Holder Only", "restricted", "public use"],
       "tos_uri": "https://path_to/terms_of_service",
       "policy_uri": "https://path_to/privacy_policiy",
-      "support_url": "https://path_to/support/landing_page",
+      "support_uri": "https://path_to/support/landing_page",
       "support_email": "Support@organization.email",
       "support_phone_number": "support phone number",
       "description": "1024 character plain text application description",
